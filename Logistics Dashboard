@@ -1,0 +1,22 @@
+# 📦 Logistics Dashboard
+
+A real-time logistics dashboard built in Power BI to visualize warehouse stock, incoming orders, and late deliveries.
+
+## 📊 Features
+- Live inventory updates
+- Delivery heat maps
+- Daily performance KPIs
+
+## 🛠 Tech Used
+`Excel` `Power BI` `DAX` `SQL`
+
+## 🧪 Screenshots
+(Add screenshot.png here)
+
+## 🚀 How to Run
+1. Clone this repo
+2. Open Power BI or Excel file
+3. Connect to sample CSV data (provided)
+
+## 🙋‍♂️ Author
+[Ndamulelo Ramovha](https://github.com/luckyramovha)
